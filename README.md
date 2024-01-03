@@ -4,9 +4,8 @@
 
 ## Hi there 👋
 
-- 👨 19 years old.
-- 🔭 I’m currently working on my own projects, that i upload here.
-- ❤️ I love art, that's why i like work with frontend.
+- 👨 20 years old.
+- 🔭 I’m currently working on my own projects.
 
 ## Currently Learning
 
